@@ -19,7 +19,7 @@ export const Input = styled.input`
   font-weight: bold;
   color: var(--secondary);
   height: 80px;
-  width: 78rem;
+  width: 75vw;
   padding-bottom: 14px;
   border: 0;
   border-bottom: 2px solid var(--secondary);
