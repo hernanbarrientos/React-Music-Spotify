@@ -2,7 +2,16 @@
 
 
 :root {
-  --primary: #161616
+  --primary: #161616;
+  --secondary: #989898;
+  --tertiary: #bbbbbb;
+  --white: #fff;
+
+  --paddingMain: 140px;
+
+  --fontMedium: 18px;
+  --fontLarge: 24px;
+  --fontXLarge: 48px;
 }
 
 body {
