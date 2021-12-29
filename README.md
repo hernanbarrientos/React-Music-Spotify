@@ -7,10 +7,11 @@ O intuito do projeto é consumir a API do [Spotify](https://https://developer.sp
 O projeto foi desenvolvido usando as seguintes tecnologias:
 
 -   [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
--   [Styled-Components](https://styled-components.com/docs)
--   [Axios](https://axios-http.com/ptbr/docs/intro)
--   [React-Hooks](https://reactrouter.com/native/guides/quick-start)
 -   [TypeScript](https://www.typescriptlang.org/)
+-   [Styled-Components](https://styled-components.com/docs)
+-   [React-Hooks](https://reactrouter.com/native/guides/quick-start)
+-   [Axios](https://axios-http.com/ptbr/docs/intro)
+
 
 
 # Instalação
