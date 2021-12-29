@@ -7,7 +7,7 @@ export const Container = styled.div`
   height: 300px;
   text-align: center;
   align-items: center;
-  background-color: black;
+  background-color: var(--darkgray);
   border-radius: 0.5rem;
   padding-top: 2.5vh;
   
