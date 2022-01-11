@@ -19,5 +19,5 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 Clonar o repositório<br>
 Executar o comando npm install, depois npm start<br>
 Abrir no endereço http://localhost:3000<br><br>
-Hospedado em
+
 
